@@ -14,6 +14,10 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;}
 
+.span-header {
+    color: #2e2f42;
+}
+
 ul { list-style-type: none;}
 
 .navigation-link-header {
@@ -168,5 +172,9 @@ ul { list-style-type: none;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
+.span-footer {
     color: #f4f4fd;
 }
